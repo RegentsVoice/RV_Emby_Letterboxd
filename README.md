@@ -2,6 +2,8 @@
 
 Adds a "Letterboxd" button to the external links section (IMDb, TMDB, etc.) on Emby media server pages. The button links directly to the corresponding film page on Letterboxd using the IMDb ID.
 
+<img width="535" height="305" alt="изображение" src="https://github.com/user-attachments/assets/03007698-b720-477d-969b-8c1cebeb9820" />
+
 ## Features
 
 - Automatically detects the IMDb link on any Emby item page.
@@ -24,15 +26,13 @@ Once installed, simply browse your Emby library. When you open a movie page, a "
 - Tested with Emby Server 4.8+.
 - Works in any modern browser with a userscript manager.
 
-## License
-
-MIT
-
 ---
 
 # Emby Letterboxd
 
 Добавляет кнопку "Letterboxd" в блок внешних ссылок (IMDb, TMDB и др.) на страницах медиа-сервера Emby. Кнопка ведёт на соответствующую страницу фильма на Letterboxd, используя IMDb ID.
+
+<img width="535" height="305" alt="изображение" src="https://github.com/user-attachments/assets/72be0f26-9fe8-47f2-9e3f-2e2bce2069be" />
 
 ## Возможности
 
@@ -55,7 +55,3 @@ MIT
 
 - Протестировано с Emby Server 4.8+.
 - Работает в любых современных браузерах с менеджером пользовательских скриптов.
-
-## Лицензия
-
-MIT
