@@ -30,7 +30,7 @@ MIT
 
 ---
 
-# Emby Letterboxd (Русский)
+# Emby Letterboxd
 
 Добавляет кнопку "Letterboxd" в блок внешних ссылок (IMDb, TMDB и др.) на страницах медиа-сервера Emby. Кнопка ведёт на соответствующую страницу фильма на Letterboxd, используя IMDb ID.
 
