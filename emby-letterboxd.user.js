@@ -1,11 +1,20 @@
 // ==UserScript==
 // @name         Emby Letterboxd
-// @namespace    https://github.com/RegentsVoice/RV_Emby_Letterboxd/
+// @name:ru      Emby Letterboxd
+// @namespace    http://tampermonkey.net/
 // @version      1.5
-// @description  Добавляет Letterboxd в ссылки на Emby
+// @description  Adds a "Letterboxd" button to Emby media server pages
+// @description:ru Добавляет кнопку "Letterboxd" на страницы медиа-сервера Emby
 // @author       Regent'sVoice
+// @license      MIT
+// @icon         https://letterboxd.com/favicon.ico
+// @homepageURL  https://github.com/RegentsVoice/RV_Emby_Letterboxd
+// @supportURL   https://github.com/RegentsVoice/RV_Emby_Letterboxd/issues
+// @downloadURL  https://raw.githubusercontent.com/RegentsVoice/RV_Emby_Letterboxd/main/emby-letterboxd.user.js
+// @updateURL    https://raw.githubusercontent.com/RegentsVoice/RV_Emby_Letterboxd/main/emby-letterboxd.user.js
 // @match        *://*/web/*
 // @grant        none
+// @run-at       document-start
 // ==/UserScript==
 
 (function() {
