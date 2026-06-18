@@ -12,7 +12,7 @@ Adds a "Letterboxd" button to the external links section (IMDb, TMDB, etc.) on E
 ## Installation
 
 1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
-2. Click the raw link to the script: [emby-letterboxd.user.js](emby-letterboxd.user.js)
+2. Click the link: [emby-letterboxd.user.js](https://github.com/RegentsVoice/RV_Emby_Letterboxd/raw/refs/heads/main/emby-letterboxd.user.js)
 3. The userscript manager should prompt you to install it. Confirm.
 
 ## Usage
@@ -44,7 +44,7 @@ MIT
 ## Установка
 
 1. Установите менеджер пользовательских скриптов, например [Tampermonkey](https://www.tampermonkey.net/) или [Violentmonkey](https://violentmonkey.github.io/).
-2. Нажмите на ссылку на скрипт в сыром виде: [emby-letterboxd.user.js](emby-letterboxd.user.js)
+2. Нажмите на ссылку: [emby-letterboxd.user.js](https://github.com/RegentsVoice/RV_Emby_Letterboxd/raw/refs/heads/main/emby-letterboxd.user.js)
 3. Менеджер скриптов предложит установить его. Подтвердите установку.
 
 ## Использование
